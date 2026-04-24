@@ -2,27 +2,27 @@ const products = [
 {
     name: "Ніжність",
     price: 1299,
-    img: "https://images.unsplash.com/photo-1490750967868-88aa4486c946"
+    img: "https://unsplash.com/photos/a-person-holding-a-bouquet-of-flowers-in-their-hand-hY6mzHREM8I6"
 },
 {
     name: "Пудровий ранок",
     price: 1499,
-    img: "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    img: "https://unsplash.com/photos/bouquet-of-flowers-hg0EDH34Nm0"
 },
 {
     name: "Кремова хмара",
     price: 1399,
-    img: "https://images.unsplash.com/photo-1464983953574-0892a716854b"
+    img: "https://unsplash.com/photos/person-holding-bouquet-of-flowers-s3AFTBZ3cnc"
 },
 {
     name: "Рожева симфонія",
     price: 1599,
-    img: "https://images.unsplash.com/photo-1470509037663-253afd7f0f51"
+    img: "https://unsplash.com/photos/a-hand-holding-a-bouquet-of-flowers-J181M95wE8Y"
 },
 {
     name: "Легкість",
     price: 1199,
-    img: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+    img: "https://unsplash.com/photos/hand-holding-peony-bouquet-on-white-wall-background-stylish-white-peonies-in-florist-hand-hello-spring-wallpaper-happy-mothers-day-wedding-arrangement-HQ_EVdC1x9A"
 }
 ];
 
