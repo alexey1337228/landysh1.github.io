@@ -2,27 +2,27 @@ const products = [
 {
     name: "Ніжність",
     price: 1299,
-    img: "https://unsplash.com/photos/a-person-holding-a-bouquet-of-flowers-in-their-hand-hY6mzHREM8I6"
+    img: "https://img.freepik.com/free-photo/beautiful-flower-bouquet_23-2151940194.jpg"
 },
 {
     name: "Пудровий ранок",
     price: 1499,
-    img: "https://unsplash.com/photos/bouquet-of-flowers-hg0EDH34Nm0"
+    img: "https://images.unsplash.com/photo-1615050461998-b2e2c93d98f3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
     name: "Кремова хмара",
     price: 1399,
-    img: "https://unsplash.com/photos/person-holding-bouquet-of-flowers-s3AFTBZ3cnc"
+    img: "https://images.unsplash.com/photo-1567696153798-9111f9cd3d0d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
     name: "Рожева симфонія",
     price: 1599,
-    img: "https://unsplash.com/photos/a-hand-holding-a-bouquet-of-flowers-J181M95wE8Y"
+    img: "https://images.unsplash.com/photo-1644248422980-8e0eb75a1557?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
     name: "Легкість",
     price: 1199,
-    img: "https://unsplash.com/photos/hand-holding-peony-bouquet-on-white-wall-background-stylish-white-peonies-in-florist-hand-hello-spring-wallpaper-happy-mothers-day-wedding-arrangement-HQ_EVdC1x9A"
+    img: "https://images.unsplash.com/photo-1652346064068-1ae0d97502c3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 }
 ];
 
